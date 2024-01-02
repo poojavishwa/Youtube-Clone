@@ -9,4 +9,4 @@ export const YOUTUBE_SEARCH_API = "http://suggestqueries.google.com/complete/sea
 
 export const OFFSET_LIVE_CHAT = 15;
 
-export const GOOGLE_API_KEY = process.env.REACT_API_KEY;
+export const GOOGLE_API_KEY = process.env.REACT_APP_API_KEY;
